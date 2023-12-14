@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "inventory2",
+            "request": "launch",
+            "mainClass": "inventory2",
+            "projectName": "Group 2_811b3a7b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "inventoyrgroup2",
+            "request": "launch",
+            "mainClass": "inventoyrgroup2",
+            "projectName": "Group 2_811b3a7b"
+        }
+    ]
+}
